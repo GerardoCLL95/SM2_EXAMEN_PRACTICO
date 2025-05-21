@@ -1,5 +1,9 @@
 # SM2_EXAMEN_PRACTICO
 
+## 🔗 Repositorio del Proyecto
+
+👉 https://github.com/GerardoCLL95/SM2_EXAMEN_PRACTICO
+
 ## 🧾 Descripción del Proyecto
 
 Este proyecto consiste en la implementación de dos historias de usuario seleccionadas del Product Backlog de un sistema de asistencia con autenticación biométrica. Las funcionalidades implementadas son:
@@ -27,7 +31,56 @@ Este proyecto consiste en la implementación de dos historias de usuario selecci
 - [Face Recognition Plugin](https://pub.dev/packages/face_camera) – Para reconocimiento facial en Flutter
 - [Firebase](https://firebase.google.com/) – Backend para autenticación y almacenamiento
 
-## 🔗 Repositorio del Proyecto
 
-👉 https://github.com/GerardoCLL95/SM2_EXAMEN_PRACTICO
+## 🔗 PARA COMPILAR Y EJECUTAR EL PROYECTO EN FLUTTER
 
+1. Requisitos Previos
+Asegúrate de tener instalado:
+
+Flutter SDK
+👉 https://docs.flutter.dev/get-started/install
+
+Android Studio (para emulador y SDK de Android)
+
+Visual Studio Code
+Con las extensiones:
+
+Flutter
+
+Dart
+
+Emulador Android o un dispositivo físico conectado (con depuración USB activada)
+
+## 🔗 Instalar Dependencias
+
+flutter pub get
+
+Esto descargará todas las librerías necesarias declaradas en pubspec.yaml.
+
+## Verificar el Dispositivo Disponible
+
+Para ver si hay un emulador o dispositivo físico conectado: flutter devices 
+y para ejecutar: flutter run
+
+## Probar Funcionalidades Implementadas
+Una vez que la app esté corriendo:
+
+## Historia 1: Registro de empleados con datos biométricos
+
+1. Ingresar como administrador a la aplicacion en acceso admin
+
+Usuario: admin
+contraseña: 123456
+
+2. ir a la pestaña inferior de empleados
+3. darle a agregar empleado ubicado en la parte inferior derecha
+4. se llena los datos
+5. se da a guardar empleado
+
+## Historia 2: Marcar asistencia con geolocalización y reconocimiento facial
+
+1. una vez registrado el empleado, salimos como admin
+2. ahora entramos a registro de usuario
+3. ingresamos la identificacion (DNI)
+4. tomamos una foto de verificacion
+5. y marcamos entrada
