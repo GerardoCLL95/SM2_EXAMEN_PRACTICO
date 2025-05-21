@@ -13,17 +13,13 @@ Este proyecto consiste en la implementación de dos historias de usuario selecci
 ## 🖼️ Capturas de Pantalla
 
 ### Registro de empleados
-![WhatsApp Image 2025-05-21 at 3 15 44 PM](https://github.com/user-attachments/assets/c6e4b77e-59de-4881-a4c9-288e2c786508)
-![WhatsApp Image 2025-05-21 at 3 14 53 PM](https://github.com/user-attachments/assets/c2b9dce8-d114-4aef-bf2c-64d1a2aea6bc)
-![WhatsApp Image 2025-05-21 at 3 14 53 PM (2)](https://github.com/user-attachments/assets/35fc1e2d-ba8d-4789-bd42-7cc97531247d)
-![WhatsApp Image 2025-05-21 at 3 14 53 PM (1)](https://github.com/user-attachments/assets/c350d830-be91-4149-9300-0d81e248329a)
-
+![WhatsApp Image 2025-05-21 at 3 14 53 PM (2)](https://github.com/user-attachments/assets/af8df1dd-5e8e-4423-bafb-e987718356ea)
+![image](https://github.com/user-attachments/assets/8d3c38c9-5b32-4c19-a97f-3d7dc2df9dc1)
 ### Marcar asistencia
-
-
-
 > Las imágenes deben guardarse en una carpeta llamada `capturas/` dentro del repositorio.
-
+![WhatsApp Image 2025-05-21 at 3 14 53 PM](https://github.com/user-attachments/assets/c99eba9a-9345-4583-9ec6-a8ae4a11edd8)
+![WhatsApp Image 2025-05-21 at 3 14 53 PM (1)](https://github.com/user-attachments/assets/9e9f5a3a-8994-43bd-9592-31c156698cf0)
+![WhatsApp Image 2025-05-21 at 3 15 44 PM](https://github.com/user-attachments/assets/32ba34bb-478b-4bd7-9fee-05143e69b9f9)
 ## 🔗 Enlaces y Referencias
 
 - [Flutter](https://flutter.dev/) – Framework para construir interfaces móviles
