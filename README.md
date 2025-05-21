@@ -29,5 +29,5 @@ Este proyecto consiste en la implementación de dos historias de usuario selecci
 
 ## 🔗 Repositorio del Proyecto
 
-👉 [https://github.com/usuario/SM2_EXAMEN_PRACTICO](https://github.com/usuario/SM2_EXAMEN_PRACTICO)
+👉 https://github.com/GerardoCLL95/SM2_EXAMEN_PRACTICO
 
